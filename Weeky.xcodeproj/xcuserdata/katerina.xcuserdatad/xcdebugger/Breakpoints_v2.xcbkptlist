@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8AEFFCA9-05D4-4908-8941-910C5300EC1A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87EF5C6C-865F-4627-9CA1-EFBB5DE98819"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weeky/WeekyApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "WeekyApp"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "87EF5C6C-865F-4627-9CA1-EFBB5DE98819 - 7eef606d66980b9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weeky.WeekyApp.AppDelegate.__allocating_init() -&gt; Weeky.WeekyApp.AppDelegate"
+                  moduleName = "Weeky"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/katerina/Documents/%D0%92%D0%9A%D0%A0/Weeky/Weeky/WeekyApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "87EF5C6C-865F-4627-9CA1-EFBB5DE98819 - 25db05e9d2537192"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weeky.WeekyApp.AppDelegate.init() -&gt; Weeky.WeekyApp.AppDelegate"
+                  moduleName = "Weeky"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/katerina/Documents/%D0%92%D0%9A%D0%A0/Weeky/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "87EF5C6C-865F-4627-9CA1-EFBB5DE98819 - 752e845f9ce06cd5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weeky.WeekyApp.AppDelegate.__deallocating_deinit"
+                  moduleName = "Weeky"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/katerina/Documents/%D0%92%D0%9A%D0%A0/Weeky/Weeky/WeekyApp.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
