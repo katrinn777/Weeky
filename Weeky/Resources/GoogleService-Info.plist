@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>DidactGothic-Regular</string>
+	</array>
+	<key>CFBundleLocalizations</key>
+	<array>
+		<string>Russian</string>
+	</array>
+	<key>API_KEY</key>
+	<string>AIzaSyATthpikwC5GHkwnuUQhBwA4RrxrwwPupA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>223376979093</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ekaterina.Weeky</string>
+	<key>PROJECT_ID</key>
+	<string>weeky-a624c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>weeky-a624c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:223376979093:ios:b9f07fb1293c035abc179c</string>
+</dict>
+</plist>
